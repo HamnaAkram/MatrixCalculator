@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1463722478 source:c:\users\hp pc\google drive\cp project\matrix calculator-final project\main.cpp
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+	<math.h>
+
